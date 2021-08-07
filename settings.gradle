@@ -1,0 +1,3 @@
+include ':regexvalidator'
+include ':app'
+rootProject.name = "Regex Validator Example"
