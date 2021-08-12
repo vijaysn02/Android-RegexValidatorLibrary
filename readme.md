@@ -87,3 +87,5 @@ Open your app’s build.gradle file and add the following inside dependencies
 Since the Gradle once and Start to use the Library features
 
 ---------------------------------------------------------------------------------------------------
+
+Read the blog explaining the process of creating and integrating Android Library through here: https://vijaysn02.medium.com/creating-and-integrating-android-library-77d570ab65a5
